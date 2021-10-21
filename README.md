@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eli</h1>
-<h3 align="center">A computer science graduate from Ben Gurion University. Highly motivated, fast learner, looking for a challenging position as a software developer</h3>
+<h3 align="center">Full-Stack developer at Indoor-Robotics</h3>
 
 - 💬 Ask me about **Java, Python, C/C++**
 

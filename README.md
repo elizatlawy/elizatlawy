@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eli</h1>
 <h3 align="center">Full-Stack developer at Indoor-Robotics</h3>
 
-- 💬 Ask me about **Java, Python, C/C++**
+- 💬 Ask me about **JavaScript, Vue, NodeJs, Java, Python, C/C++**
 
 - 📫 How to reach me **eli.zatlawy at gmail.com**
 

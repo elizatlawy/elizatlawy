@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eli</h1>
-<h3 align="center">Full-Stack developer at Indoor-Robotics</h3>
+<h3 align="center">Full-Stack developer</h3>
 
 - 💬 Ask me about **JavaScript, Vue.js, Node.js**
 
